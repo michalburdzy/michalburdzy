@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=michalburdzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michalburdzy&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="michalburdzy"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michalburdzy&show_icons=true&locale=en&layout=compact&langs_count=10&hide=Jupyter%20Notebook&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="michalburdzy"/>
   </div>
 <!--    <div>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalburdzy" width="450"  alt="michalburdzy"/>
